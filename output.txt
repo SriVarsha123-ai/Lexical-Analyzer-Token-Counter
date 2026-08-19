@@ -1,0 +1,37 @@
+TOKEN TYPE
+--------------------------------
+int : Keyword
+sum : Identifier
+= : Operator
+a : Identifier
++ : Operator
+b : Identifier
+; : Separator
+float : Keyword
+average : Identifier
+= : Operator
+sum : Identifier
+/ : Operator
+2 : Constant
+; : Separator
+if : Keyword
+( : Separator
+average : Identifier
+> : Operator
+50 : Constant
+) : Separator
+printf : Identifier
+( : Separator
+"Pass" : String Literal
+) : Separator
+; : Separator
+
+TOKEN COUNT
+--------------------------------
+Keywords       : 3
+Identifiers    : 7
+Operators      : 5
+Constants      : 2
+String Literals: 1
+Separators     : 7
+Comments       : 0
